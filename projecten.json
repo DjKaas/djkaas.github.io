@@ -1,22 +1,22 @@
 {
     "projecten": [
       {
-        "titel": "Fictief Project 1",
-        "omschrijving": "Dit is een fictief project waarin een webapplicatie is ontwikkeld voor het beheren van taken.",
-        "technologieen": ["HTML", "CSS", "JavaScript", "React"],
-        "afbeelding": "project1.jpg"
+        "titel": "Wetenschappen wiskunde 6u",
+        "omschrijving": "Mijn diploma middelbare school",
+        "technologieen": ["Hersenen", "Google"],
+        "afbeelding": "/pictures/school.jpg"
       },
       {
-        "titel": "Fictief Project 2",
-        "omschrijving": "Een mobiele app voor het bijhouden van uitgaven en budgetbeheer.",
-        "technologieen": ["Swift", "Firebase"],
+        "titel": "Mijzelf leren borduren",
+        "omschrijving": "Mij op zelfstandige basis leren borduren en naaien",
+        "technologieen": ["Inkscape", "Pes-bestanden", "Handwerk"],
         "afbeelding": "project2.png"
       },
       {
-        "titel": "Fictief Project 3",
-        "omschrijving": "Een fictieve e-commerce website voor het verkopen van kleding en accessoires.",
-        "technologieen": ["HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB"],
-        "afbeelding": "project3.jpg"
+        "titel": "Mijn konijn Bruintje",
+        "omschrijving": "Het liefste konijntje van België",
+        "technologieen": ["Veel liefde"],
+        "afbeelding": "/pictures/konijn.jpg"
       }
     ]
   }
