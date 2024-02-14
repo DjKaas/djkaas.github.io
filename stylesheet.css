@@ -35,7 +35,7 @@ ul{
 
 .containerH{
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     margin: 3rem;
 }
 
