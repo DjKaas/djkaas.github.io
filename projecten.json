@@ -1,0 +1,23 @@
+{
+    "projecten": [
+      {
+        "titel": "Fictief Project 1",
+        "omschrijving": "Dit is een fictief project waarin een webapplicatie is ontwikkeld voor het beheren van taken.",
+        "technologieen": ["HTML", "CSS", "JavaScript", "React"],
+        "afbeelding": "project1.jpg"
+      },
+      {
+        "titel": "Fictief Project 2",
+        "omschrijving": "Een mobiele app voor het bijhouden van uitgaven en budgetbeheer.",
+        "technologieen": ["Swift", "Firebase"],
+        "afbeelding": "project2.png"
+      },
+      {
+        "titel": "Fictief Project 3",
+        "omschrijving": "Een fictieve e-commerce website voor het verkopen van kleding en accessoires.",
+        "technologieen": ["HTML", "CSS", "JavaScript", "Node.js", "Express", "MongoDB"],
+        "afbeelding": "project3.jpg"
+      }
+    ]
+  }
+  
